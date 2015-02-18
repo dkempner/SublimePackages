@@ -1,0 +1,31 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Bower",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"Grunt",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JavaScript Completions",
+		"JavaScript Refactor",
+		"JavaScript Snippets",
+		"jQuery",
+		"LESS",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Sublime-KnockoutJS-Snippets",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Terminal",
+		"Theme - Soda",
+		"Underscore.js Snippets"
+	]
+}
