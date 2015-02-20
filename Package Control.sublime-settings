@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -6,6 +9,7 @@
 		"Bower",
 		"BracketHighlighter",
 		"Emmet",
+		"Focus File on Sidebar",
 		"Git",
 		"Grunt",
 		"HTML-CSS-JS Prettify",
