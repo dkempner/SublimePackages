@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Seti (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -10,10 +10,10 @@
 		"node_modules",
 		"bower_components"
 	],
-	"font_size": 16,
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Seti.sublime-theme"
+	"theme": "Brogrammer.sublime-theme"
 }
